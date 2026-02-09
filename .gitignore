@@ -1,0 +1,7 @@
+# FILES
+.env
+*.json
+
+# FOLDERS
+venv/
+__pycache__/
